@@ -1,4 +1,4 @@
-<img src="https://github.com/warniGO/warniGO/assets/119101655/fa5bd696-ace5-4f2f-8904-3657f54cb59a" />
+<img src="https://github.com/warniGO/warniGO/assets/119101655/fa5bd696-ace5-4f2f-8904-3657f54cb59a" /><hr />
 
 🚀 **Full Stack Web Developer**
 
