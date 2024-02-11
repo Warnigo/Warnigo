@@ -9,16 +9,10 @@ I excel in thorough deadline assessments, quick issue resolution, and careful er
 
 ## 💻 Work Methodology:
 - **Fast and Clean Code Writing:** Proficient in writing fast and clean code, essential for the efficient and successful completion of projects.
-- **Technologies:** Proficient in both Frontend (React) and Backend (NodeJS, Express), collaborating using Git and Github.
+- **Technologies:** Proficient in both Frontend (**React, Vue, NextJS**), Backend (**NodeJS, NestJS, Rust, Go**) and Software (**C/C++**) collaborating using Git and Github.
 - **Algorithm Enhancement:** Actively using Leetcode to continuously enhance algorithmic skills.
 - **Documentation:** Rigorously document work and learning experiences using Notion.
 - **Development Tools:** Code proficiently using VS Code and JetBrains, seamlessly operating on both Windows and macOS.
-
-## 📚 Learning and Growth:
-My commitment to continuous learning is unwavering, staying abreast of emerging technologies and programming languages. My educational journey at Astrum Academy in 2022, particularly through the Qwasar Silicon Valley site, equipped me with comprehensive Full Stack knowledge.
-
-## 🌱 Further Learning:
-My keen interest in continuous learning drives me to explore new technologies and programming languages.
 
 ## 🖋️ Perfecting Work Profile:
 - **Notion.so:** I meticulously organize all my learned information on the Notion.so platform, demonstrating how I document and manage my learning and work processes.
