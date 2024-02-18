@@ -1,8 +1,10 @@
+<div align="center">
+  <h1>Hello👋</h1>
+  <div style="font-size: 14px;">
+    <p style="font-weight: bold;">I want my project to be the best in every way. Furthermore, I pay deep attention to design of my project, so it looks very stylish. I write clean code to ensure that other programmers understand it. I use different new technologies to speed up process of creating project and securing it. I use other programs to track my progress.</p>
+  </div>
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" style="width: 100%; height: 100%; object-fit: cover;">
-
-# 🚀 Full Stack Web Developer
-
-Hello! 😊 I'm a dynamic Full Stack Web Developer, specializing in creating modern user experiences with React. My expertise extends into both the Frontend and Backend realms.
 
 ## 🔍 Key Offerings:
 I excel in thorough deadline assessments, quick issue resolution, and careful error handling. Additionally, I specialize in implementing and optimizing sales funnels to enhance overall business performance.
@@ -26,3 +28,4 @@ I'm eager to contribute my skills and passion to your team, offering a blend of 
 At the end of the day, expressing gratitude is essential, and I genuinely appreciate your time spent reading. If you have any questions, need further clarification, or just want to connect, feel free to reach out. Your engagement is highly valued, and I'm excited about potential collaborations or discussions.
 
 Thank you, and I look forward to hearing from you! 🌟
+![logo](https://github.com/Warnigo/Warnigo/assets/119101655/0886c426-36b8-4163-b6d6-253be84150d0)
