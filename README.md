@@ -1,7 +1,9 @@
 <div align="center">
-  <h1>Hello👋</h1>
+  
+  ## Hello👋
+  
   <div style="font-size: 14px;">
-    <p style="font-weight: bold;">I want my project to be the best in every way. Furthermore, I pay deep attention to design of my project, so it looks very stylish. I write clean code to ensure that other programmers understand it. I use different new technologies to speed up process of creating project and securing it. I use other programs to track my progress.</p>
+    <p style="font-weight: bold;">I am a <b>Full stack developer</b>. I want my project to be the best in every way. I am always learning new things in programming and always using new and effective skills</p>
   </div>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" style="width: 100%; height: 100%; object-fit: cover;">
