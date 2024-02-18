@@ -1,4 +1,4 @@
-![Header Image](https://github.com/warniGO/warniGO/assets/119101655/fa5bd696-ace5-4f2f-8904-3657f54cb59a)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="gif" style="width: 100%; height: 100%; object-fit: cover;">
 
 # 🚀 Full Stack Web Developer
 
